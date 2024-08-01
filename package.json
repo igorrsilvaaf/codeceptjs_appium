@@ -1,0 +1,19 @@
+{
+  "name": "automation_appium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "webdriverio": "^8.6.3"
+  },
+  "devDependencies": {
+    "@codeceptjs/configure": "^1.0.1",
+    "codeceptjs": "^3.6.5"
+  }
+}
