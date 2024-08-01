@@ -10,7 +10,7 @@ exports.config = {
   output: './output',
   helpers: {
     Appium: {
-      appiumV2: true, // Certifique-se de que está usando Appium 2.x
+      appiumV2: true,
       url: 'http://127.0.0.1:4723/', // URL do servidor Appium
       platformName: 'Android',
       app: 'E:/MEGA/Cursos/QAZando/QAFood_app_release.apk',
