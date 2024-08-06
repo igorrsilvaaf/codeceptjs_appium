@@ -6,24 +6,24 @@ setCommonPlugins();
 /** @type {CodeceptJS.MainConfig} */
 exports.config = {
   name: 'automation_appium',
-  tests: './*_test.js',
+  tests: './pages/*_test.js',
   output: './output',
   helpers: {
     Appium: {
       appiumV2: true,
       url: 'http://127.0.0.1:4723/', // URL do servidor Appium
-      platformName: 'Android',
-      app: 'E:/MEGA/Cursos/QAZando/QAFood_app_release.apk',
+      app: 'E:\\MEGA\\Cursos\\QAZando\\automation_appium\\APK\\QAFood_app_release.apk',
       desiredCapabilities: {
+        platformName: 'Android',
         deviceName: 'emulator-5554', // Nome do dispositivo
         appPackage: 'com.qazandoqafood', // Pacote do aplicativo
         appActivity: 'MainActivity', // Atividade inicial do aplicativo
-        automationName: 'UiAutomator2',
-        platformVersion: '14' // Versão do Android
+        automationName: 'UiAutomator2'
       },
+      path: '/'
     }
   },
   include: {
-    I: './steps_file.js' // Local do arquivo de etapas
-  },
+    I: './steps_file.js' // Local do arquivo de etapas
+  },
 };

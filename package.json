@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "webdriverio": "^7.20.9"
-  },
   "devDependencies": {
     "@codeceptjs/configure": "^1.0.1",
-    "codeceptjs": "^3.3.7"
+    "appium": "^2.11.2",
+    "codeceptjs": "^3.6.5",
+    "webdriverio": "^8.40.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }
