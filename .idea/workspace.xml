@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a5dce8-79f9-4e71-b0ca-803be90bbf77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/account_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codecept.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps_file.js" beforeDir="false" afterPath="$PROJECT_DIR$/steps_file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Tentando_rodar_o_teste.failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/Tentando_rodar_o_teste.failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files (x86)\\JetBrains\\WebStorm 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -90,6 +88,8 @@
       <workItem from="1722524482411" duration="17588000" />
       <workItem from="1722900465053" duration="54000" />
       <workItem from="1722900558411" duration="1228000" />
+      <workItem from="1722913635783" duration="420000" />
+      <workItem from="1722914117931" duration="138000" />
     </task>
     <servers />
   </component>
